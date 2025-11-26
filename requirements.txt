@@ -1,4 +1,5 @@
-Flask
-Flask-Cors
-youtube-transcript-api==0.6.2
+flask
 gunicorn
+youtube-transcript-api
+yt-dlp
+openai>=1.2.0
